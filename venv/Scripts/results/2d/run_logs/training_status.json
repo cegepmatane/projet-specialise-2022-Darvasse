@@ -1,0 +1,51 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 7068,
+                "file_path": "results\\2d\\MoveToGoal\\MoveToGoal-7068.onnx",
+                "reward": -0.5849056603773585,
+                "creation_time": 1647460807.9349558,
+                "auxillary_file_paths": [
+                    "results\\2d\\MoveToGoal\\MoveToGoal-7068.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 7068,
+            "file_path": "results\\2d\\MoveToGoal.onnx",
+            "reward": -0.5849056603773585,
+            "creation_time": 1647460807.9349558,
+            "auxillary_file_paths": [
+                "results\\2d\\MoveToGoal\\MoveToGoal-7068.pt"
+            ]
+        }
+    },
+    "MoveToGoal3D": {
+        "checkpoints": [
+            {
+                "steps": 192,
+                "file_path": "results\\2d\\MoveToGoal3D\\MoveToGoal3D-192.onnx",
+                "reward": null,
+                "creation_time": 1647460807.9844267,
+                "auxillary_file_paths": [
+                    "results\\2d\\MoveToGoal3D\\MoveToGoal3D-192.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 192,
+            "file_path": "results\\2d\\MoveToGoal3D.onnx",
+            "reward": null,
+            "creation_time": 1647460807.9844267,
+            "auxillary_file_paths": [
+                "results\\2d\\MoveToGoal3D\\MoveToGoal3D-192.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2+cu113"
+    }
+}

@@ -29,7 +29,7 @@ public class MoveToGoalAgent : Agent
         float moveX = actions.ContinuousActions[0];
         float moveZ = actions.ContinuousActions[1];
         float moveSpeed = 4f;
-        transform.localPosition += new Vector3(moveX, 0, moveZ)*Time.deltaTime*moveSpeed;
+        transform.localPosition += new Vector3(moveX, 0, moveZ) * Time.deltaTime * moveSpeed;
     }
     public override void Heuristic(in ActionBuffers actionsOut)
     {

@@ -1,0 +1,65 @@
+{
+    "AI_PinPongBat": {
+        "checkpoints": [
+            {
+                "steps": 8499985,
+                "file_path": "results\\test\\AI_PinPongBat\\AI_PinPongBat-8499985.onnx",
+                "reward": 1.0,
+                "creation_time": 1647579949.3574083,
+                "auxillary_file_paths": [
+                    "results\\test\\AI_PinPongBat\\AI_PinPongBat-8499985.pt"
+                ]
+            },
+            {
+                "steps": 8999981,
+                "file_path": "results\\test\\AI_PinPongBat\\AI_PinPongBat-8999981.onnx",
+                "reward": 1.0,
+                "creation_time": 1647580435.9546542,
+                "auxillary_file_paths": [
+                    "results\\test\\AI_PinPongBat\\AI_PinPongBat-8999981.pt"
+                ]
+            },
+            {
+                "steps": 9499993,
+                "file_path": "results\\test\\AI_PinPongBat\\AI_PinPongBat-9499993.onnx",
+                "reward": 0.9982876712328768,
+                "creation_time": 1647580918.8733292,
+                "auxillary_file_paths": [
+                    "results\\test\\AI_PinPongBat\\AI_PinPongBat-9499993.pt"
+                ]
+            },
+            {
+                "steps": 9999983,
+                "file_path": "results\\test\\AI_PinPongBat\\AI_PinPongBat-9999983.onnx",
+                "reward": 1.0,
+                "creation_time": 1647581407.85549,
+                "auxillary_file_paths": [
+                    "results\\test\\AI_PinPongBat\\AI_PinPongBat-9999983.pt"
+                ]
+            },
+            {
+                "steps": 10000002,
+                "file_path": "results\\test\\AI_PinPongBat\\AI_PinPongBat-10000002.onnx",
+                "reward": 1.0,
+                "creation_time": 1647581407.9155042,
+                "auxillary_file_paths": [
+                    "results\\test\\AI_PinPongBat\\AI_PinPongBat-10000002.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000002,
+            "file_path": "results\\test\\AI_PinPongBat.onnx",
+            "reward": 1.0,
+            "creation_time": 1647581407.9155042,
+            "auxillary_file_paths": [
+                "results\\test\\AI_PinPongBat\\AI_PinPongBat-10000002.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2+cu113"
+    }
+}

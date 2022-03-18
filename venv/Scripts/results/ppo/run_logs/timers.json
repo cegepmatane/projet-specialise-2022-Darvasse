@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1646838054",
+        "python_version": "3.7.8 (tags/v3.7.8:4b47a5b6ba, Jun 28 2020, 08:53:46) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\axelk\\OneDrive\\Documents\\GitHub\\projet-specialise-2022-Darvasse\\venv\\Scripts\\mlagents-learn --force",
+        "mlagents_version": "0.28.0",
+        "mlagents_envs_version": "0.28.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.10.2+cu113",
+        "numpy_version": "1.21.5",
+        "end_time_seconds": "1646838067"
+    },
+    "total": 13.5528318,
+    "count": 1,
+    "self": 0.0031533999999986406,
+    "children": {
+        "run_training.setup": {
+            "total": 0.056232700000000024,
+            "count": 1,
+            "self": 0.056232700000000024
+        },
+        "TrainerController.start_learning": {
+            "total": 13.4934457,
+            "count": 1,
+            "self": 0.00029659999999864795,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 13.4931366,
+                    "count": 1,
+                    "self": 13.4931366
+                },
+                "trainer_threads": {
+                    "total": 9.000000016357035e-07,
+                    "count": 1,
+                    "self": 9.000000016357035e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 1.160000000055561e-05,
+                    "count": 1,
+                    "self": 1.160000000055561e-05
+                }
+            }
+        }
+    }
+}
