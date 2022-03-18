@@ -1,0 +1,38 @@
+{
+    "AI_PinPongBat": {
+        "checkpoints": [
+            {
+                "steps": 499990,
+                "file_path": "results\\3d3\\AI_PinPongBat\\AI_PinPongBat-499990.onnx",
+                "reward": -0.09090909090909091,
+                "creation_time": 1647492332.2331548,
+                "auxillary_file_paths": [
+                    "results\\3d3\\AI_PinPongBat\\AI_PinPongBat-499990.pt"
+                ]
+            },
+            {
+                "steps": 500054,
+                "file_path": "results\\3d3\\AI_PinPongBat\\AI_PinPongBat-500054.onnx",
+                "reward": -0.09090909090909091,
+                "creation_time": 1647492332.2811668,
+                "auxillary_file_paths": [
+                    "results\\3d3\\AI_PinPongBat\\AI_PinPongBat-500054.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500054,
+            "file_path": "results\\3d3\\AI_PinPongBat.onnx",
+            "reward": -0.09090909090909091,
+            "creation_time": 1647492332.2811668,
+            "auxillary_file_paths": [
+                "results\\3d3\\AI_PinPongBat\\AI_PinPongBat-500054.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2+cu113"
+    }
+}
