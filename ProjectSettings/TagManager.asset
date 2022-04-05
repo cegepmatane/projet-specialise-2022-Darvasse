@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Goal
   - Wall
+  - Table
+  - Wrong
+  - Racket
   layers:
   - Default
   - TransparentFX

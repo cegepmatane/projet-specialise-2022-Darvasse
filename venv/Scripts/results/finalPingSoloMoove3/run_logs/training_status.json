@@ -1,0 +1,56 @@
+{
+    "AI_PingPongBatFinal": {
+        "checkpoints": [
+            {
+                "steps": 34999975,
+                "file_path": "results\\finalPingSoloMoove3\\AI_PingPongBatFinal\\AI_PingPongBatFinal-34999975.onnx",
+                "reward": 2.9723926380368098,
+                "creation_time": 1649084552.1705687,
+                "auxillary_file_paths": [
+                    "results\\finalPingSoloMoove3\\AI_PingPongBatFinal\\AI_PingPongBatFinal-34999975.pt"
+                ]
+            },
+            {
+                "steps": 35499989,
+                "file_path": "results\\finalPingSoloMoove3\\AI_PingPongBatFinal\\AI_PingPongBatFinal-35499989.onnx",
+                "reward": 2.9741379310344827,
+                "creation_time": 1649085103.104514,
+                "auxillary_file_paths": [
+                    "results\\finalPingSoloMoove3\\AI_PingPongBatFinal\\AI_PingPongBatFinal-35499989.pt"
+                ]
+            },
+            {
+                "steps": 35999992,
+                "file_path": "results\\finalPingSoloMoove3\\AI_PingPongBatFinal\\AI_PingPongBatFinal-35999992.onnx",
+                "reward": 2.9927007299270074,
+                "creation_time": 1649085694.7897675,
+                "auxillary_file_paths": [
+                    "results\\finalPingSoloMoove3\\AI_PingPongBatFinal\\AI_PingPongBatFinal-35999992.pt"
+                ]
+            },
+            {
+                "steps": 36499994,
+                "file_path": "results\\finalPingSoloMoove3\\AI_PingPongBatFinal\\AI_PingPongBatFinal-36499994.onnx",
+                "reward": 2.9863013698630136,
+                "creation_time": 1649086262.2455165,
+                "auxillary_file_paths": [
+                    "results\\finalPingSoloMoove3\\AI_PingPongBatFinal\\AI_PingPongBatFinal-36499994.pt"
+                ]
+            },
+            {
+                "steps": 36999977,
+                "file_path": "results\\finalPingSoloMoove3\\AI_PingPongBatFinal\\AI_PingPongBatFinal-36999977.onnx",
+                "reward": 3.0,
+                "creation_time": 1649086842.2071908,
+                "auxillary_file_paths": [
+                    "results\\finalPingSoloMoove3\\AI_PingPongBatFinal\\AI_PingPongBatFinal-36999977.pt"
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2+cu113"
+    }
+}

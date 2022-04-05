@@ -1,0 +1,29 @@
+{
+    "AI_PingPongBatFinal": {
+        "checkpoints": [
+            {
+                "steps": 349654,
+                "file_path": "results\\finalPingSoloMoove2\\AI_PingPongBatFinal\\AI_PingPongBatFinal-349654.onnx",
+                "reward": null,
+                "creation_time": 1649045563.284723,
+                "auxillary_file_paths": [
+                    "results\\finalPingSoloMoove2\\AI_PingPongBatFinal\\AI_PingPongBatFinal-349654.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 349654,
+            "file_path": "results\\finalPingSoloMoove2\\AI_PingPongBatFinal.onnx",
+            "reward": null,
+            "creation_time": 1649045563.284723,
+            "auxillary_file_paths": [
+                "results\\finalPingSoloMoove2\\AI_PingPongBatFinal\\AI_PingPongBatFinal-349654.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2+cu113"
+    }
+}

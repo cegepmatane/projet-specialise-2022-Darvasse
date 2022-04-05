@@ -1,0 +1,65 @@
+{
+    "AI_PingPongBatFinal": {
+        "checkpoints": [
+            {
+                "steps": 8499988,
+                "file_path": "results\\finalPing\\AI_PingPongBatFinal\\AI_PingPongBatFinal-8499988.onnx",
+                "reward": 50.355704697986575,
+                "creation_time": 1649028843.3963733,
+                "auxillary_file_paths": [
+                    "results\\finalPing\\AI_PingPongBatFinal\\AI_PingPongBatFinal-8499988.pt"
+                ]
+            },
+            {
+                "steps": 8999876,
+                "file_path": "results\\finalPing\\AI_PingPongBatFinal\\AI_PingPongBatFinal-8999876.onnx",
+                "reward": 135.51282051282053,
+                "creation_time": 1649029259.9411445,
+                "auxillary_file_paths": [
+                    "results\\finalPing\\AI_PingPongBatFinal\\AI_PingPongBatFinal-8999876.pt"
+                ]
+            },
+            {
+                "steps": 9499878,
+                "file_path": "results\\finalPing\\AI_PingPongBatFinal\\AI_PingPongBatFinal-9499878.onnx",
+                "reward": 47.64754098360656,
+                "creation_time": 1649029666.6887434,
+                "auxillary_file_paths": [
+                    "results\\finalPing\\AI_PingPongBatFinal\\AI_PingPongBatFinal-9499878.pt"
+                ]
+            },
+            {
+                "steps": 9999963,
+                "file_path": "results\\finalPing\\AI_PingPongBatFinal\\AI_PingPongBatFinal-9999963.onnx",
+                "reward": 6.541666666666667,
+                "creation_time": 1649030081.1936917,
+                "auxillary_file_paths": [
+                    "results\\finalPing\\AI_PingPongBatFinal\\AI_PingPongBatFinal-9999963.pt"
+                ]
+            },
+            {
+                "steps": 10000014,
+                "file_path": "results\\finalPing\\AI_PingPongBatFinal\\AI_PingPongBatFinal-10000014.onnx",
+                "reward": 6.4,
+                "creation_time": 1649030081.2517047,
+                "auxillary_file_paths": [
+                    "results\\finalPing\\AI_PingPongBatFinal\\AI_PingPongBatFinal-10000014.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000014,
+            "file_path": "results\\finalPing\\AI_PingPongBatFinal.onnx",
+            "reward": 6.4,
+            "creation_time": 1649030081.2517047,
+            "auxillary_file_paths": [
+                "results\\finalPing\\AI_PingPongBatFinal\\AI_PingPongBatFinal-10000014.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2+cu113"
+    }
+}
